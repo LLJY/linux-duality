@@ -1,1 +1,1 @@
- obj-$(CONFIG_BBSWITCH)	+= bbswitch/
+ obj-$(CONFIG_BBSWITCH)	+= bbswitch.o
